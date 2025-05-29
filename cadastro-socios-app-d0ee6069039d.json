@@ -1,0 +1,8 @@
+credenciais.json = {
+  "type": "service_account",
+  "project_id": "cadastro-socios",
+  "private_key_id": "xxxxxxxxxxxxxxxxxx",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nABC123...\n-----END PRIVATE KEY-----\n",
+  "client_email": "streamlit-gsheets@cadastro-socios.iam.gserviceaccount.com",
+  ...
+}
